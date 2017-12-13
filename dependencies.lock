@@ -1,0 +1,32 @@
+{
+    "compileClasspath": {
+        "org.apache.commons:commons-math3": {
+            "locked": "3.6.1",
+            "requested": "3.6.1"
+        }
+    },
+    "default": {
+        "org.apache.commons:commons-math3": {
+            "locked": "3.6.1",
+            "requested": "3.6.1"
+        }
+    },
+    "runtimeClasspath": {
+        "org.apache.commons:commons-math3": {
+            "locked": "3.6.1",
+            "requested": "3.6.1"
+        }
+    },
+    "testCompileClasspath": {
+        "org.apache.commons:commons-math3": {
+            "locked": "3.6.1",
+            "requested": "3.6.1"
+        }
+    },
+    "testRuntimeClasspath": {
+        "org.apache.commons:commons-math3": {
+            "locked": "3.6.1",
+            "requested": "3.6.1"
+        }
+    }
+}
